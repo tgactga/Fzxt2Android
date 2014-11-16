@@ -1,61 +1,0 @@
-10
-
-dir
-199
-svn://192.168.219.19/svn/fzxt/Fzxt2Android/res
-svn://192.168.219.19
-
-
-
-2014-09-15T22:49:44.028822Z
-199
-huangw
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b9c5fb34-f5da-11e2-8878-53972ed26445
-
-values
-dir
-
-values-w820dp
-dir
-
-drawable-hdpi
-dir
-
-drawable-xxhdpi
-dir
-
-menu
-dir
-
-values-v11
-dir
-
-drawable-ldpi
-dir
-
-values-v14
-dir
-
-drawable-mdpi
-dir
-
-drawable-xhdpi
-dir
-
-layout
-dir
-
